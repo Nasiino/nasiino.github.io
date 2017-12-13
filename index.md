@@ -365,7 +365,7 @@
 <script>
 	var QVnames = [['1','1'],['1.1','1.1'],['1.1.1','1.1.1'],['1.1.1.1','1.1.1.1'],['1.1.1.1.1','1.1.1.1.1'],['1.1.1.1.2','1.1.1.1.2'],['1.1.1.2','1.1.1.2'],['1.1.1.2.1','1.1.1.2.1'],['1.1.1.2.2','1.1.1.2.2'],['1.1.1.3','1.1.1.3'],['1.1.1.3.1','1.1.1.3.1'],['1.1.1.3.2','1.1.1.3.2'],['1.1.2','1.1.2'],['1.1.2.1','1.1.2.1'],['1.1.2.1.1','1.1.2.1.1'],['1.1.2.1.2','1.1.2.1.2'],['1.1.2.2','1.1.2.2'],['1.1.2.2.1','1.1.2.2.1'],['1.1.2.2.2','1.1.2.2.2'],['1.1.3','1.1.3'],['1.1.3.1','1.1.3.1'],['1.1.3.1.1','1.1.3.1.1'],['1.1.3.1.2','1.1.3.1.2'],['1.1.3.2','1.1.3.2'],['1.1.3.2.1','1.1.3.2.1'],['1.1.3.2.2','1.1.3.2.2'],['1.1.4','1.1.4'],['1.1.4.1','1.1.4.1'],['1.1.4.1.1','1.1.4.1.1'],['1.1.4.1.2','1.1.4.1.2'],['1.1.4.2','1.1.4.2'],['1.1.4.2.1','1.1.4.2.1'],['1.1.4.2.2','1.1.4.2.2'],['1.1.5','1.1.5'],['1.1.5.1','1.1.5.1'],['1.1.5.2','1.1.5.2'],['1.1.6','1.1.6'],['1.2','1.2'],['2','2'],['3','end']];
 </script>
-</textarea><textarea id="transcript" name="transcript" style="display:none;" disabled="disabled"></textarea><div style="float:left;width:100%;margin:15px 0 0px 0;border-top: solid 1px #ddd;"><div id=credits class=credits style="display:none;"><div class=credit_text></div></div><p align=center> <a href="http://www.qnamarkup.org/" target=_top>code your own</a></p></div></FORM></div></div>
+</textarea><textarea id="transcript" name="transcript" style="display:none;" disabled="disabled"></textarea><div style="float:left;width:100%;margin:15px 0 0px 0;border-top: solid 1px #ddd;">
 <script type="text/javascript">
 	var QNum = 0;
 	var Qhtml = "";
